@@ -1,0 +1,2 @@
+# BearVault
+Personal knowledge notebook
